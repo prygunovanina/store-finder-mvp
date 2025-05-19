@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StoreFinderMVP</string>
+    <string name="app_title">Поиск товаров в магазине</string>
+    <string name="choose_role">Выберите роль:</string>
+    <string name="operator_role">Оператор магазина</string>
+    <string name="customer_role">Покупатель</string>
+    <string name="operator_panel">Панель оператора магазина</string>
+    <string name="customer_panel">Панель покупателя</string>
+    <string name="load_map">Загрузить схему</string>
+    <string name="add_section">Добавить раздел</string>
+    <string name="import_products">Импорт товаров</string>
+    <string name="add_product">Добавить товар</string>
+    <string name="store_map">Схема магазина</string>
+    <string name="map_help_text">Нажмите на схему, чтобы добавить раздел в этом месте</string>
+    <string name="search_hint">Введите название товара</string>
+    <string name="paste">Вставить</string>
+    <string name="products_list">Список товаров:</string>
+    <string name="save_map_title">Сохранение схемы магазина</string>
+    <string name="map_name_hint">Название схемы</string>
+    <string name="save">Сохранить</string>
+    <string name="add_section_title">Добавление раздела магазина</string>
+    <string name="section_name_hint">Название раздела</string>
+    <string name="x_coordinate">X координата</string>
+    <string name="y_coordinate">Y координата</string>
+    <string name="add">Добавить</string>
+    <string name="add_product_title">Добавление товара</string>
+    <string name="product_name_hint">Название товара</string>
+    <string name="select_section">Выберите раздел магазина:</string>
+</resources>
